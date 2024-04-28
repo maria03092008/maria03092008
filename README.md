@@ -8,37 +8,68 @@
 
     <body>
         </header>
-           <h1 class="titulo-centralizado >Barbearia Alura/h1
+           <h1 class="titulo-principal">Barbearia Alura/h1
         <header>
         <img id="banner" src="banner.jpg">
         <div class="principal">
-             <h2>Sobre a Barbearia Alura</h2>
+             <h2 class="titulo-centralizado">Sobre a Barbearia Alura</h2>
              <p>Localizada nocoração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o
              que há de melhor para o seu cabelo  e barba.Fundada em 2019, a Barbearia Alura já édestaque na cidade e conquista novos clientes a cada dia.</p>
          
-            <p id="missão"><em>Nossa missão é´:<strong>"Proporcionar auto-estima e qualidade de vida aos
+            <p id="missao"><em>Nossa missão é´:<strong>"Proporcionar auto-estima e qualidade de vida aos
              clientes"<strong>.</em></p>
 
-           <p>Oferecemosprofissionais experientes e antenadosa ás mudançasno mundo da moda.O atendimento possui padrão de exelencia e agilidadee satisfacão dos
+           <p>Oferecemosprofissionais experientes e antenadosa ás mudançasno mundo da moda.O atendimento possui padrão de exelencia e agilidadee satisfação dos
            nossos clientes.</p>
            </div>
 
            <div class="benefícios">
-             <h3>Benefícios</h3>
+             <h3 class=" titulo-centralizado"Beneficios</h3>
 
              <ul>
-                <lí class="ítens">Atentimento aos Clientes</lí>
-                <lí class= "ítens">Espaço diferenciado</lí>
-                <lí class= "ítens">Localização</lí>
-                <lí class= "ítens">Profissionais Qualificados</lí>
+                <lí class="itens">Atentimento aos Clientes</li>
+                <lí class= "itens">Espaço diferenciado</li>
+                <lí class= "itens">Localização</li>
+                <lí class= "itens">Profissionais Qualificados</li>
          
             </ul>
 
-            <img> src="benefícios .jpg" class="imagembenefícios">
+            <img> src="beneficios .jpg" class="imagembeneficios">
         </div>
    </body>
    
-         
+produtos.HTML
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTL-8">
+        <title>Produtos- Barbearia Alura</title>
+        <title rel="stylesheet" href="produtos .css">
+        </head>
+        <body>
+            <header>
+                 <h1><img src="logo.png"></h1>
+
+                 <nav>
+                     <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href=" contato.html">Contatos</a></li>
+                </ul>
+                <nav>
+            </header>
+        </body>
+    <html>
+
+
+
+
+
+
+
+
+                 
+  
              
          
             
