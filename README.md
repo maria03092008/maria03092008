@@ -44,7 +44,9 @@ produtos.HTML
     <head>
         <meta charset="UTL-8">
         <title>Produtos- Barbearia Alura</title>
-        <title rel="stylesheet" href="produtos .css">
+        
+        <linkr rel="stylesheet" href="produtos .css">
+        linkreal=
         </head>
         <body>
             <header>
@@ -67,13 +69,52 @@ produtos.HTML
 
 
 
+reset.css
+/*html://meyerweb.com/eric/tools/css/reset/
+v2.0\20110126
+license:none publicdomain
+*/
 
-                 
-  
-             
-         
+html ,body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+a, abbr, acronym, addres, big, cite, code, 
+del, dfm, em, img, ins, kbd, q, s, samp,s
+small, strile, stronksub, sup, tt, var, 
+b, u, i, center, 
+d1, dt, dd, ol, ul, li, 
+frieldset, form, laber, legent, 
+table, capion, tbody, tfoot, thead, tr, th, td, 
+article, aside, canvas, detailis, embed,
+figure, figcaption, footer, header, hgroup, 
+time, mark, audio, video, 
+
+
+            
             
           
+
+
+
+
+
+
+
+
+produtos.css
+header
+     background: #BBBBB;
+]
+
+nav{
+   positiona bsolute;
+   top:110px;
+   right:0;
+{
+   
+
+
+
+
 
 
 
