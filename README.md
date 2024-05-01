@@ -69,38 +69,38 @@ produtos.HTML
 
 
 
-reset.css
+
+      reset.css  
 /*html://meyerweb.com/eric/tools/css/reset/
 v2.0|20110126
-license:none publicdomain
+license:none (public domain)
 */
 
 html ,body, div, span, applet, object, iframe, 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
-a, abbr, acronym, addres, big, cite, code, 
-del, dfm, em, img, ins, kbd, q, s, samp,s
-small, strile, stronksub, sup, tt, var, 
+a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, 
 b, u, i, center, 
-d1, dt, dd, ol, ul, li, 
-frieldset, form, laber, legent, 
-table, capion, tbody, tfoot, thead, tr, th, td, 
-article, aside, canvas, detailis, embed,
-figure, figcaption, footer, header, hgroup, 
-time, mark, audio, video{
+dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead,th, td, 
+article, figcaption, footer, header,hgroup, 
+menu, nav, output, ruby, section, summary, 
+time, mark, audio, video {
       margin: 0;
-      padding: 0;
-      border: 0;
-      font-size: 100%;
-      font: inherit;
-      vertical-align: baseline;
+     padding: 0;
+     border: 0;
+     font-size:100%;
+     font: inherit;
+     vertical-align: baseline;
 }
-/*HTML5 display-role reset for older browsers */
+
+body {
+    line-height:1;/*HTML5 display-role reset for older browsers */
 article, aside,details, figcaption, figure,
 footer, header, hgroup, menu, nav,section {
     display:block;
-}
-body {
-    line-height:1;
 }
 ol, ol {
     list-style: none;
