@@ -71,7 +71,7 @@ produtos.HTML
 
 reset.css
 /*html://meyerweb.com/eric/tools/css/reset/
-v2.0\20110126
+v2.0|20110126
 license:none publicdomain
 */
 
@@ -86,7 +86,66 @@ frieldset, form, laber, legent,
 table, capion, tbody, tfoot, thead, tr, th, td, 
 article, aside, canvas, detailis, embed,
 figure, figcaption, footer, header, hgroup, 
-time, mark, audio, video, 
+time, mark, audio, video{
+      margin: 0;
+      padding: 0;
+      border: 0;
+      font-size: 100%;
+      font: inherit;
+      vertical-align: baseline;
+}
+/*HTML5 display-role reset for older browsers */
+article, aside,details, figcaption, figure,
+footer, header, hgroup, menu, nav,section {
+    display:block;
+}
+body {
+    line-height:1;
+}
+ol, ol {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content:"";
+    content: none;
+}
+table {
+    border-collapse:collapse
+    border-spacing: 0;
+}
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
 
 
             
