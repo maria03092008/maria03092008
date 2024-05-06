@@ -45,21 +45,34 @@ produtos.HTML
         <meta charset="UTL-8">
         <title>Produtos- Barbearia Alura</title>
         
-        <linkr rel="stylesheet" href="produtos .css">
-        linkreal=
-        </head>
-        <body>
-            <header>
-                 <h1><img src="logo.png"></h1>
+        <linkr rel="stylesheet" href="reset.css">
+        <link real="stylesheet" href="produtos.css">
+     </head>
+     <body>
+        <header>
+           <h1><img src="logo.png"></h1>
 
-                 <nav>
-                     <ul>
+              <nav>
+                <ul>
                     <li><a href="index.html">Home</a></li>
                     <li><a href="produtos.html">Produtos</a></li>
                     <li><a href=" contato.html">Contatos</a></li>
                 </ul>
                 <nav>
             </header>
+
+            <main>
+               <ul>
+                   <li>
+                     <h2>Cabelo,/h2>
+                     <img scr="cabelo.jgp">
+                     <p>Na tesouraou máquina, como o cliente preferir</p>
+                     <p></p>
+                 </li>
+                 <li>
+                    < barba
+                cabelo+barba
+                </main>
         </body>
     <html>
 
@@ -119,7 +132,42 @@ table {
 }
 
     
-    
+ produtos.css
+ header{
+    backgraund: #bbbbbb;
+    padding: 20px 0;
+} 
+
+caixa {
+  position: relative;
+ margin: 0auto;
+}
+
+nav {
+    position: absolute;
+    top:110px;
+    right: 0;
+}
+
+nav li {
+    display:inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+      text-transform: uppercase;
+      color: #000000;
+      front-weight: bold;
+      front- size:22px;
+      text-decoration: none;
+
+
+
+
+
+      
+
+     
 
 
 
