@@ -70,11 +70,21 @@ produtos.HTML
                      <p></p>
                  </li>
                  <li>
-                    < barba
-                cabelo+barba
-                </main>
-        </body>
-    <html>
+                    <h2>Barba</h2>
+                    <img src="barba.jpg">
+                    <p>Corte e desenho profissionalde barba</p>
+                    <p></p>
+                </li>
+                <li>
+                    <h2>Cabelo + Barba</h2>
+                    <img src=" cabelo+barba.jpg">
+                    <p>Pacote completo de cabelo e barba</p>
+                    <p></p>
+                </li>
+              </ul>
+        </main>
+      </body>
+ </html>
 
 
 
