@@ -67,19 +67,19 @@ produtos.HTML
                      <h2>Cabelo,/h2>
                      <img scr="cabelo.jgp">
                      <p>Na tesouraou máquina, como o cliente preferir</p>
-                     <p></p>
+                     <p>R$ 25,00</p>
                  </li>
                  <li>
                     <h2>Barba</h2>
                     <img src="barba.jpg">
                     <p>Corte e desenho profissionalde barba</p>
-                    <p></p>
+                    <p>R$ 18,00</p>
                 </li>
                 <li>
                     <h2>Cabelo + Barba</h2>
                     <img src=" cabelo+barba.jpg">
                     <p>Pacote completo de cabelo e barba</p>
-                    <p></p>
+                    <p>r$ 35,00</p>
                 </li>
               </ul>
         </main>
@@ -175,7 +175,8 @@ nav a {
 
 
 
-      
+PRODUTOS.CSS
+
 
      
 
