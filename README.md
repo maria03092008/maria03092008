@@ -1,4 +1,4 @@
-<!DOCTYPE html
+<!1DOCTYPE html
 <html lang="pt-br">
     <head>
           <meta charset="UTL-8">
@@ -22,7 +22,6 @@
            <p>Oferecemosprofissionais experientes e antenadosa ás mudançasno mundo da moda.O atendimento possui padrão de exelencia e agilidadee satisfação dos
            nossos clientes.</p>
            </div>
-
            <div class="benefícios">
              <h3 class=" titulo-centralizado"Beneficios</h3>
 
@@ -37,6 +36,7 @@
             <img> src="beneficios .jpg" class="imagembeneficios">
         </div>
    </body>
+
    
 produtos.HTML
 <!DOCTYPE html>
@@ -66,7 +66,7 @@ produtos.HTML
                    <li>
                      <h2>Cabelo,/h2>
                      <img scr="cabelo.jgp">
-                     <p>Na tesouraou máquina, como o cliente preferir</p>
+                     <p>Na tesoura ou máquina, como o cliente preferir</p>
                      <p>R$ 25,00</p>
                  </li>
                  <li>
@@ -86,7 +86,36 @@ produtos.HTML
       </body>
  </html>
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTL-8">
+        <title>Produtos- Barbearia Alura</title>
+        
+        <linkr rel="stylesheet" href="reset.css">
+        <link real="stylesheet" href="produtos.css">
+     </head>
+     <body>
+        <header>
+           <h1><img src="logo.png"></h1>
 
+              <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="produtos.html">Produtos</a></li>
+                    <li><a href=" contato.html">Contatos</a></li>
+                </ul>
+                <nav>
+            </header>
+
+            <main>
+               <ul>
+                   <li>
+                     <h2>Cabelo,/h2>
+                     <img scr="cabelo.jgp">
+                     <p>Na tesoura ou máquina, como o cliente preferir</p>
+                     <p>R$ 25,00</p>
+                 </l
 
 
 
